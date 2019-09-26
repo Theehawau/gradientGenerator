@@ -1,0 +1,10 @@
+body{
+	text-align: center;
+	padding-top: 20px;
+	font-family: Ariel;
+	background: linear-gradient(to right, blue, pink);
+	font-size: 1.5em;
+}
+h3{
+	font-size: 1em;
+}
